@@ -1,0 +1,31 @@
+header.museo{
+    background-color: bisque;
+    text-align: center;
+}
+p.blanco{
+    background-color: white;
+    color: white;
+}
+div.links{
+    background-color: lightgreen;
+    text-align: center;
+}
+div.quienes{
+    background-color: orange;
+}
+p.negrita{
+    font-weight: bold;
+}
+div.vacio{
+    background-color: white;
+}
+div.naranja{
+    background-color: orange;
+}
+div.azul{
+    background-color: blue;
+    text-align: center;
+}
+span.amarillo{
+    background-color: yellow;
+}
